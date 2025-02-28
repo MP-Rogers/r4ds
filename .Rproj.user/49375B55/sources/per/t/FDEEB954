@@ -1,27 +1,27 @@
 {
-    "id": "25423ABF",
-    "path": "~/Programming/R/R for Data Science/Lesson 2 - Visualise.R",
-    "project_path": "Lesson 2 - Visualise.R",
+    "id": "FDEEB954",
+    "path": "~/Programming/R/R for Data Science/Lesson 2.1 Communicate.R",
+    "project_path": "Lesson 2.1 Communicate.R",
     "type": "r_source",
-    "hash": "0",
+    "hash": "1967419318",
     "contents": "",
     "dirty": false,
-    "created": 1738252011037.0,
+    "created": 1738251932244.0,
     "source_on_save": false,
     "relative_order": 1,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "2,0",
-        "scrollLine": "0"
+        "cursorPosition": "88,0",
+        "scrollLine": "69"
     },
-    "folds": "3|16|60|50|\n63|30|80|15|\n",
-    "lastKnownWriteTime": 1738894398,
+    "folds": "",
+    "lastKnownWriteTime": 1739323429,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1738894398063,
+    "last_content_update": 1739323429034,
     "read_only": false,
     "read_only_alternatives": []
 }
